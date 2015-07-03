@@ -1,0 +1,15 @@
+.page-title {
+  font-family: Lato;
+  font-size: 18px;
+}
+
+.page-sub-title {
+  color: #767676;
+  font-weight: 300;
+  font-size: 12px;
+}
+
+.header {
+  overflow: auto;
+  padding: 30px;
+}
